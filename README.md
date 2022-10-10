@@ -1,8 +1,6 @@
 # tiber-protocol
 Tiber, a liquid staking protocol on Algorand - 2022 International School on Algorand Smart Contracts
 
-# smart contract specification
-
 # why liquid staking?
 
 In a Proof-of-Stake framework, a user stakes funds to a protocol in exchange for rewards. Traditionally staked funds are locked and inaccessible to the staker for a certain period. This introduces risk to the party staking funds.
@@ -20,12 +18,6 @@ In many ways liquid staking is technically similar to and an extension of flash 
 Liquid staking increases participation in the base protocol by reducing risk for capital and development. Our team identified that liquid staking was missing from the modern DeFi stack for Algorand, currently there is not a high-profile liquid staking protocol on Algorand.
 
 Yield farming is a significant application of liquid staking, reducing risk and complexity for yeild farming activities between a diversity of funds. A robust liquid staking protocol on Algorand will help open the door to more yield farming activity on Algorand's ecosystem. 
-
-
-# basic architecture
-
-Tiber Protocol stALGO
-
 
 # challenges
 
