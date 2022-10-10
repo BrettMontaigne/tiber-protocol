@@ -9,7 +9,7 @@ Liquid staking (or "soft" staking) is a protocol that enables access to staked f
 
 # current state of the art
 
-The most high profile example of liquid staking protocols on different blockchains include Lido Finance on Ethereum. Lido finance mediates their staking protocol via a cohort of proxied contracts (Solidity), with a primary contract that negotiates the staked liquidity token pool. Lido is behind a transparent upgradeable contract. Lido is also organized as a DAO with supplementary DAO contracts. 
+Some high profile examples of liquid staking protocols on different blockchains include Lido Finance on Ethereum and Blockdaemon's implementation on ETH2. Lido finance mediates their staking protocol via a cohort of proxied contracts (Solidity), with a primary contract that negotiates the staked liquidity token pool. Lido is behind a transparent upgradeable contract. Lido is also organized as a DAO with supplementary DAO contracts. 
 
 In many ways liquid staking is technically similar to and an extension of flash minting. In a flash mint, a flashed token is minted, backed and redeemable by an underpinned token. This is the engine that powers liquid staking contracts. 
 
